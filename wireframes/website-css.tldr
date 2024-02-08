@@ -66,9 +66,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 523.5489484600976,
-			"y": 54.20193440897697,
-			"lastActivityTimestamp": 1707371500896,
+			"x": 108.9904471445211,
+			"y": 238.37045956259902,
+			"lastActivityTimestamp": 1707374159771,
 			"meta": {}
 		},
 		{
@@ -87,12 +87,10 @@
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:zpHUbRZfvzSAsbWrY0VJN",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:zpHUbRZfvzSAsbWrY0VJN"
-			],
-			"hoveredShapeId": "shape:zpHUbRZfvzSAsbWrY0VJN",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -1290,7 +1288,7 @@
 				"color": "light-blue",
 				"size": "m",
 				"w": 189.63671875000003,
-				"text": "colour of title (pastel green: F0F8EF)",
+				"text": "colour of title (pastel green:)",
 				"font": "draw",
 				"align": "middle",
 				"autoSize": false,
