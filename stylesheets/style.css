@@ -4,9 +4,20 @@ body {
 header {
     color: #F0F8EF;
     font-family: cursive;
-    font-size: 65.5pt;
+    
 }
 
+h1 {
+    font-size: 55.5pt;
+    display: inline;
+
+}
+
+.LilWater {
+
+    padding-left: 15%;
+ 
+} 
 
 
 
