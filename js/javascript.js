@@ -12,9 +12,9 @@ function howIsYourDay() {
     let alright = true;
     let great = true;
 
-    while ( emotions != good || alright || great ) {
-        emotions= prompt ("How is your day going?");
-        if ( emotions != good || alright || great ) {
+    while ( emotions != "good" && emotions != "alright" && emotions != "great" ) {
+        emotions= prompt("How is your day going?");
+        if ( emotions != "good" && emotions != "alright" && emotions != "great") {
         alert("Sorry you're not feeling well, come back later!");
 
     } else {
