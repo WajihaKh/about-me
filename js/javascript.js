@@ -42,7 +42,15 @@ if (confirm("Have you ever walked your cat?")) {
 }
 }
 
+function rateThisWebsite () {
 
+    let rating = prompt("On a scale of 1-10, what would you give this website?")
+    rating = Number(rating);
+    for( let i = 0; i < rating; i++ ) {
+        document.write("✨")
+    }
+
+}
 
 
 document.write(" ଘ(੭ˊᵕˋ)੭ ");
